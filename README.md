@@ -1,3 +1,5 @@
+![Logo](main/images/logo_SADA_.png)
+
 # Smart Anomaly Detection Assistant (S.A.D.A.)
 
 ## Overview
