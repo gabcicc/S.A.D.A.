@@ -46,3 +46,6 @@ The Smart Anomaly Detection Assistant (S.A.D.A.) is an advanced application desi
 ## Development and Impact
 
 S.A.D.A. was developed entirely through iterative interactions with ChatGPT, showcasing the potential of generative AI in software development. The process involved generating and refining Python code, incorporating user feedback, and addressing errors. This collaboration highlights how non-programmers can create sophisticated applications by leveraging AI tools.
+
+
+## Version 1.5, with major upgrades, is coming soon!
