@@ -1,4 +1,4 @@
-<img src="https://github.com/gabcicc/S.A.D.A./blob/main/images/logo_SADA_.png" alt="Logo" width="25%">
+<img src="https://github.com/gabcicc/S.A.D.A./blob/main/images/main_window_SADA.png" alt="Logo" width="25%">
 
 # Smart Anomaly Detection Assistant (S.A.D.A.)
 
